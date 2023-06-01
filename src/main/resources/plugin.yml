@@ -1,0 +1,5 @@
+name: DeathOnDamage
+version: '${project.version}'
+main: me.wordsdontmakesense.deathondamage.DeathOnDamage
+api-version: 1.19
+authors: [ WordsDontMakeSense ]
